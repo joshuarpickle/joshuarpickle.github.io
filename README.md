@@ -1,4 +1,16 @@
 # Grazioso Salvare Database Application
+## Table of Contents
+1. [Professional Self-Assessment](#professional-self-assessment)
+2. [Pre-Enhancement Code](#pre-enhancement-code)
+3. [Code Review](#code-review)
+4. [A Quick Note](#a-quick-note)
+5. [Enhancement One Code](#enhancement-one-code)
+6. [Enhancement One Narrative](#enhancement-one-narrative)
+7. [Enhancement Two Code](#enhancement-two-code)
+8. [Enhancement Two Narrative](#enhancement-two-narrative)
+9. [Enhancement Three Narrative](#enhancement-three-narrative)
+10. [Final Project Code](#final-project-code)
+
 ## Professional Self-Assessment
 
 In my Computer Science program, I dived into a bunch of different topics, and learned how to do all sorts of things. From DAD-220 (Intro to Struct. Database Env.), where I learned how to create and interact with databases, to CS-465 (Full-Stack Development I), where I observed and enacted the creation of a full-stack application. Classes like CS-250 (Software Development Lifecycle) taught me about utilizing the SDLC to keep a project on track, how to interact with people in different positions in a team environment, and how to keep shareholders in the loop throughout the process, while other classes like CS-305 (Software Security) taught me how to protect against common attacks such as SQL injection and impersonation. Even in the class I was taking in parallel to the capstone class (CS-370: Current/Emerging Trends in CS) I learned how to create artificially intelligent algorithms capable of learning over time. In the constantly changing environments of the various classes where I frequently had to learn the basics of unfamiliar programming languages in a very short period, I learned how to be flexible and adapt to new circumstances. 
