@@ -22,7 +22,7 @@ Below is the code review video for the pre-enhancement code:
 ## A Quick Note
 The following sections go over the versions the project went through during development along with my thoughts as the project progressed.
 
-For those only interested in the project in its most recent, most complete state, go here
+For those only interested in the project in its most recent, most complete state, go [here](#final-project-code)
 
 ## Enhancement One Code
 Enhancement One code can be found [here](https://github.com/joshuarpickle/cs-499-code-milestones/tree/main/EnhancementOneProject)
