@@ -8,8 +8,9 @@
 6. [Enhancement One Narrative](#enhancement-one-narrative)
 7. [Enhancement Two Code](#enhancement-two-code)
 8. [Enhancement Two Narrative](#enhancement-two-narrative)
-9. [Enhancement Three Narrative](#enhancement-three-narrative)
-10. [Final Project Code](#final-project-code)
+9. [Enhancement Three Code](#enhancement-three-code)
+10. [Enhancement Three Narrative](#enhancement-three-narrative)
+11. [Final Project Code](#final-project-code)
 
 ## Professional Self-Assessment
 
