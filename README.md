@@ -17,7 +17,7 @@ Application will not work as intended unless requirements detailed in **requirem
 ## Code Review
 Below is the code review video for the pre-enhancement code:
 
-[![Watch the video](https://img.youtube.com/vi/5mY87pMS58Q/0.jpg)]([https://www.youtube.com/watch?v=5mY87pMS58Q])
+[![Watch the video](https://img.youtube.com/vi/5mY87pMS58Q/0.jpg)](https://www.youtube.com/watch?v=5mY87pMS58Q)
 
 ## A Quick Note
 The following sections go over the versions the project went through during development along with my thoughts as the project progressed.
