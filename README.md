@@ -8,5 +8,6 @@ For my capstone project, rather than making small changes to a few small project
 The above changes were done in four installments: Enhancement One, Enhancement Two, Enhancement Three, and Final Project. The helper buttons and login page were implemented in Enhancement One. Enhancement Two consists of the changes made by Enhancement One in addition to the range search functionality. Enhancement Three is the first two enhancements, but it uses an SQL database instead of a MongoDB one. The Final Project is all three enhancements and the Create, Read, and Delete application capabilities. 
 
 ## Code Review
-Code review for the pre-enhancement code:
+Below is the code review video for the pre-enhancement code:
 
+[![Watch the video](https://img.youtube.com/vi/5mY87pMS58Q/0.jpg)]([https://www.youtube.com/watch?v=5mY87pMS58Q])
